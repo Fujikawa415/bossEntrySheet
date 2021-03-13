@@ -85,6 +85,7 @@
 		color: #cccccc;
 	}
 	h2 {
+		margin-top: 20px;
 		counter-reset: h3;
 		font-size: 1.8em;
 		color: #cccccc;
