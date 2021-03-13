@@ -75,6 +75,10 @@
 -   終了日時
 
 <style>
+	body {
+		background: #272822;
+		color: #cccccc;
+	}
 	h1 {
 		counter-reset: h2;
 		font-size: 2.0em;
@@ -88,7 +92,7 @@
 	}
 	h2:before {
 		counter-increment: h2;
-		content: "◆ " counter(h2) ". ";
+		content: counter(h2) ". ";
 	}
 	h3:before {
 		counter-increment: h3;
