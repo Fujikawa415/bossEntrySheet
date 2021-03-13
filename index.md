@@ -82,13 +82,16 @@
 	h1 {
 		counter-reset: h2;
 		font-size: 2.0em;
+		color: #cccccc;
 	}
 	h2 {
 		counter-reset: h3;
 		font-size: 1.8em;
+		color: #cccccc;
 	}
 	h3 {
 		font-size: 1.35em;
+		color: #cccccc;
 	}
 	h2:before {
 		counter-increment: h2;
