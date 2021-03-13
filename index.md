@@ -1,4 +1,4 @@
-#
+# 概要
 
 <!-- TOC -->
 
@@ -75,9 +75,6 @@
 -   終了日時
 
 <style>
-	body {
-		background: #272822;
-	}
 	h1 {
 		counter-reset: h2;
 		font-size: 2.0em;
